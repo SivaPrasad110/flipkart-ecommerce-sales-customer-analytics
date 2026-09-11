@@ -1,0 +1,49 @@
+product_id,product_name,category,sub_category
+PROD0001,Football,Sports,Fitness
+PROD0002,Non-Stick Cookware,Home & Kitchen,Decor
+PROD0003,Formal Shoes,Fashion,Women
+PROD0004,Boat Wireless Earbuds,Electronics,Smartphones
+PROD0005,Sunscreen,Beauty,Fragrance
+PROD0006,Sony Headphones,Electronics,Laptops
+PROD0007,Lenovo Laptop,Electronics,Smartwatches
+PROD0008,Body Lotion,Beauty,Haircare
+PROD0009,Running Shoes,Fashion,Accessories
+PROD0010,Data Science Handbook,Books,Business
+PROD0011,Apple iPhone,Electronics,Laptops
+PROD0012,Handbag,Fashion,Men
+PROD0013,HP Laptop,Electronics,Smartphones
+PROD0014,OnePlus Smartphone,Electronics,Laptops
+PROD0015,Men's Casual Shirt,Fashion,Men
+PROD0016,Lipstick,Beauty,Makeup
+PROD0017,Bedsheet Set,Home & Kitchen,Decor
+PROD0018,Backpack,Fashion,Accessories
+PROD0019,Electric Kettle,Home & Kitchen,Furniture
+PROD0020,Samsung Galaxy Smartphone,Electronics,Smartphones
+PROD0021,Tennis Racket,Sports,Outdoor
+PROD0022,Finance Book,Books,Business
+PROD0023,Yoga Mat,Sports,Cricket
+PROD0024,Mixer Grinder,Home & Kitchen,Kitchen
+PROD0025,Shampoo,Beauty,Skincare
+PROD0026,Dining Set,Home & Kitchen,Furniture
+PROD0027,Office Chair,Home & Kitchen,Decor
+PROD0028,Hair Serum,Beauty,Haircare
+PROD0029,Women's Dress,Fashion,Women
+PROD0030,Noise Smartwatch,Electronics,Headphones
+PROD0031,Table Lamp,Home & Kitchen,Kitchen
+PROD0032,Self Improvement Book,Books,Fiction
+PROD0033,Women's Kurti,Fashion,Men
+PROD0034,Novel Collection,Books,Technology
+PROD0035,Storage Organizer,Home & Kitchen,Kitchen
+PROD0036,Perfume,Beauty,Makeup
+PROD0037,Machine Learning Guide,Books,Fiction
+PROD0038,Face Moisturizer,Beauty,Haircare
+PROD0039,Dumbbell Set,Sports,Fitness
+PROD0040,SQL Complete Reference,Books,Technology
+PROD0041,Face Wash,Beauty,Haircare
+PROD0042,Cricket Shoes,Sports,Fitness
+PROD0043,Python Programming Book,Books,Business
+PROD0044,Men's Jeans,Fashion,Accessories
+PROD0045,Sports Bag,Sports,Outdoor
+PROD0046,Fitness Tracker,Sports,Football
+PROD0047,Business Strategy Book,Books,Fiction
+PROD0048,Cricket Bat,Sports,Outdoor
